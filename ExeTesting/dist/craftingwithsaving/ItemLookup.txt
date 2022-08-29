@@ -1,0 +1,4 @@
+Healing Potion(Minor):400,1
+Sunrod:300,1
+Tindertwig:20,1
+Elixir of Life(Minor):300,1

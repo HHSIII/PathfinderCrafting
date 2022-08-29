@@ -1,0 +1,8 @@
+skillMod=4
+trainedLevel=T
+lvl=1
+
+The first is your crafting skills modifier (ex. int +4)
+Trained Level is how trianed you are in crafting (T, E, M, L)
+Level is simply your level. Put whatever these values are in here to have them be your default
+saved data in the code.
