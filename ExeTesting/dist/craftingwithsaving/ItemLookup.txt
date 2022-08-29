@@ -2,3 +2,6 @@ Healing Potion(Minor):400,1
 Sunrod:300,1
 Tindertwig:20,1
 Elixir of Life(Minor):300,1
+Weapon Potency(+1):3500,2
+Handwraps of Mighty Fists:3500,2
+Striking:6500,4
